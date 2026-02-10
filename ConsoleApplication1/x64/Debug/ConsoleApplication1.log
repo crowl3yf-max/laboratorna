@@ -1,6 +1,0 @@
-﻿  ConsoleApplication1.cpp
-  ryad.cpp
-D:\project\ConsoleApplication1\ConsoleApplication1\ryad.cpp(9,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-D:\project\ConsoleApplication1\ConsoleApplication1\ryad.cpp(12,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-  ConsoleApplication1.vcxproj -> D:\project\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
